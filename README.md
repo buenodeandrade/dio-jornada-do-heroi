@@ -24,15 +24,15 @@ This project is a simple web application that allows users to classify a hero's 
 2. Enter the hero's name and XP when prompted.
 3. The webpage will display the hero's level along with classification criteria in a retro game-inspired design.
 
-## Screenshots
-PC Mode
+# Screenshots
+## PC Mode
 ![Screenshot](Screenshot1.jpg)
 
-Mobile phone mode
+## Mobile phone mode
 ![Screenshot](Screenshot2.jpg)
 
-Tablet mode
-![Screenshot](Screenshot3.jpg)
+## Tablet mode
+![Screenshot](Screenshot3.jpeg)
 
 ## Possible Improvements
 - Allow users to select different themes.

@@ -26,13 +26,13 @@ This project is a simple web application that allows users to classify a hero's 
 
 ## Screenshots
 PC Mode
-![Screenshot](screenshot1.jpg)
+![Screenshot](Screenshot1.jpg)
 
 Mobile phone mode
-![Screenshot](screenshot2.jpg)
+![Screenshot](Screenshot2.jpg)
 
 Tablet mode
-![Screenshot](screenshot3.jpg)
+![Screenshot](Screenshot3.jpg)
 
 ## Possible Improvements
 - Allow users to select different themes.
